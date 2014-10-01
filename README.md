@@ -1,8 +1,8 @@
 Win7AutoMineSweeper
 ===============
 
-Only for MineSweeper.exe on Windows 7!
-Uses memory to judge mine and click to solve it.
+Only for MineSweeper.exe on Windows 7!<br/>
+Uses memory to judge mines and click.
 
 XP version
 ===============
